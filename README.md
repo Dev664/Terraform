@@ -564,21 +564,3 @@ To prevent AWS charges:
 * Verify no unused Elastic IPs or EBS volumes remain
 
 ---
-
-# Next Labs
-
-After completing this lab, you can extend your Terraform skills by creating:
-
-1. VPC
-2. Public & Private Subnets
-3. Internet Gateway
-4. Route Tables
-5. Security Groups
-6. EC2 with User Data
-7. Elastic IP
-8. Application Load Balancer
-9. Auto Scaling Group
-10. Remote Backend (Amazon S3 + DynamoDB)
-11. Modules
-12. Workspaces
-13. Multi-Environment Deployment (Dev / QA / Prod)
