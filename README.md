@@ -1,5 +1,5 @@
 
-# Terraform AWS EC2 Lab
+# Terraform AWS EC2 Lab Setup
 
 > **Hands-on Lab: Provision an Amazon EC2 Instance using Terraform on AWS**
 
